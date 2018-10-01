@@ -1,0 +1,1 @@
+print("kaisa hai")
